@@ -1,3 +1,4 @@
 # INF2050 Laboratoires
-Alexandre Croisetière Labo1
+Alexandre Croisetière
+Laboratoire 1
 
